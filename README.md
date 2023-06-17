@@ -1,10 +1,4 @@
 ### Hi,I'm Devyani!👋
-
-<!--
-**devyani277/devyani277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on frontend development and logic building in JAVA.
 - 🌱 I’m currently learning Java, Python & DSA.
 - 👯 I’m looking to collaborate on new project.
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:Linkedin- https://www.linkedin.com/in/devyani-a6850122
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
--->
